@@ -1,0 +1,19 @@
+.icon-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 0;
+  margin-top: 45px;
+}
+
+.linkedInIcon {
+  color: #0e76a8;
+  font-size: 35px;
+  margin: 0 15px;
+}
+
+.EnvelopeIcon {
+  color: #a6a6a6;
+  font-size: 35px;
+  margin: 0 15px;
+}
